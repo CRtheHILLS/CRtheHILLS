@@ -1,5 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=500+songs.+Now+I+write+code.;Automate+the+noise.;Ship+what+matters." alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=500+songs.+Now+I+write+code.;Automate+the+noise.;Ship+what+matters." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=435&lines=500+songs.+Now+I+write+code.;Automate+the+noise.;Ship+what+matters." />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=435&lines=500+songs.+Now+I+write+code.;Automate+the+noise.;Ship+what+matters." />
+  </picture>
 </h1>
 
 <p align="center">
