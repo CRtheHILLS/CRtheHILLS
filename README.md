@@ -1,20 +1,23 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=500+K-POP+songs.+Now+I+write+code.;Automate+the+noise.;Ship+what+matters." />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=600&lines=500+K-POP+songs.+Now+I+write+code.;Automate+the+noise.;Ship+what+matters." />
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=600&lines=500+K-POP+songs.+Now+I+write+code.;Automate+the+noise.;Ship+what+matters." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=I+used+to+write+code+on+a+piano.;Now+I+compose+on+a+keyboard.;500+songs.+Infinite+commits." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=600&lines=I+used+to+write+code+on+a+piano.;Now+I+compose+on+a+keyboard.;500+songs.+Infinite+commits." />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=600&lines=I+used+to+write+code+on+a+piano.;Now+I+compose+on+a+keyboard.;500+songs.+Infinite+commits." />
   </picture>
 </h1>
 
 <p align="center">
-  <sub>Co-Founder, AIMING MUSIC · 500+ songs across Korea & Japan<br>Then I traded the studio for the terminal. Same ears. Different instrument.</sub>
+  <strong>K-POP Producer & Co-Founder, AIMING MUSIC</strong><br>
+  <sub>500+ songs across Korea & Japan · Now building tools that make the world quieter</sub>
 </p>
 
 ---
 
-500+ K-POP songs produced across Korea & Japan. Then I picked up a keyboard that wasn't a piano.
+In music, **code** means harmony — the structure beneath the melody.
 
-Now I stack systems instead of melodies. The goal never changed — **remove the noise, amplify what matters.**
+In software, **code** means logic — the structure beneath the product.
+
+I've spent my life writing both. The craft is the same: **layer by layer, until it resonates.**
 
 > *"Let machines handle the loops. Let humans handle the soul."*
 
