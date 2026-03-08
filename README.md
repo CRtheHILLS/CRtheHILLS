@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <sub>500+ songs across Korea & Japan. Then I traded the studio for the terminal.<br>Same ears. Different instrument.</sub>
+  <sub>Co-Founder, AIMING MUSIC · 500+ songs across Korea & Japan<br>Then I traded the studio for the terminal. Same ears. Different instrument.</sub>
 </p>
 
 ---
